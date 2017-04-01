@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\temp\fisica\helloglfw-box2d\helloglfw\source.cpp(240): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HelloGLFW.vcxproj -> C:\temp\Fisica\HelloGLFW-Box2D\Debug\HelloGLFW.exe
+  HelloGLFW.vcxproj -> C:\temp\Fisica\HelloGLFW-Box2D\Debug\HelloGLFW.pdb (Partial PDB)
